@@ -1,0 +1,11 @@
+{
+  "privateVpc" : "plan",
+  "dropletGroups" : [
+    {
+      "groupName": "web",
+      "numDroplet" : 3,
+      "dropletSize" : "TINY",
+      "osImage" : "CENTOS"
+    }
+  ]
+}

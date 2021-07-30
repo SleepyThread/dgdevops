@@ -1,0 +1,12 @@
+{
+  "language": "java",
+  "app": "mvn -e -q compile exec:java",
+  "terraformProviders": [
+    "digitalocean/digitalocean@~> 2.0"
+  ],
+  "terraformModules": [],
+  "context": {
+    "excludeStackIdFromLogicalIds": "true",
+    "allowSepCharsInLogicalIds": "true"
+  }
+}

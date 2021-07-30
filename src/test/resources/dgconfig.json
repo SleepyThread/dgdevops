@@ -1,0 +1,7 @@
+{
+  "token" : "bc968a5caff2",
+  "providerGroup" : "digitalOceanProvider",
+  "image" : "centos-8-x64",
+  "region" : "lon1",
+  "sshKeyIds" : ["309"]
+}
